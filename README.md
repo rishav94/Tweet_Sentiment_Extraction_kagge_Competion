@@ -1,1 +1,1 @@
-# Twitter-Sentiment-Analysis
+# Tweet-Sentiment-Analysis
